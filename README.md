@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m5gd7rmpjbjv5y5f/branch/main?svg=true)](https://ci.appveyor.com/project/MilenaTabakova/autotesthw2/branch/main)
